@@ -14,7 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.platform.LocalContext
 import com.leduyphuc.adbterminal.ui.*
-import com.leduyphuc.adbterminal.ui.theme.AppTheme
+import com.leduyphuc.adbterminal.ui.AppTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Terminal</string>
+    <string name="connect">Kết nối</string>
+    <string name="run">Chạy</string>
+</resources>
